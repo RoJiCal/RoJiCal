@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm RoJiCal</h1>
-<h3 align="center">A passionate future frontend developer from Spain</h3>
+<h3 align="center">A passionate future frontend developer from Spain, I am currently doing a developer course and in the future I would like to share my knowledge with you </h3>
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
